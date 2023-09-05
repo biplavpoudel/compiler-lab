@@ -1,0 +1,10 @@
+#include <stdio.h> // This is a header file
+int main()
+{
+    int a = 10 ;
+    int b = 12 ;
+    if ( a == 15 )
+    printf ( " %d is a number " , a ) ;
+    printf ( " The value of a is %d " , a ) ;
+    return 0 ;
+}
